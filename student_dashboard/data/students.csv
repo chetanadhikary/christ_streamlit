@@ -1,0 +1,11 @@
+Student_ID,Name,Department,Semester,CGPA,Attendance,Programming_Score,Projects,Internship,Placement_Status
+101,Aarav,CSE,5,8.7,92,88,4,Yes,Placed
+102,Diya,AI,5,9.1,95,94,5,Yes,Placed
+103,Rohan,ECE,5,7.8,85,76,2,No,Not Placed
+104,Meera,CSE,5,8.9,90,91,4,Yes,Placed
+105,Arjun,ISE,5,7.5,78,70,1,No,Not Placed
+106,Ananya,AI,5,9.3,96,96,6,Yes,Placed
+107,Kiran,ECE,5,8.1,88,82,3,No,Placed
+108,Priya,CSE,5,8.5,91,87,3,Yes,Placed
+109,Rahul,ISE,5,7.2,75,68,1,No,Not Placed
+110,Sneha,AI,5,9.0,94,92,5,Yes,Placed
