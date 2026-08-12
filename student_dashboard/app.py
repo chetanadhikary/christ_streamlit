@@ -93,7 +93,9 @@ if selected_department != "All":
     ]
 
 if selected_semester != "All":
-    df_filtered = df_filtered["Semester"] == selected_semester
+    df_filtered = df_filtered[
+        df_filtered["Semester"] == selected_semester
+    ]
 
 
 min_cgpa = st.sidebar.slider(
