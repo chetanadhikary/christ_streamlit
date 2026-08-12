@@ -24,7 +24,7 @@
   "postCreateCommand": "pip install -r requirements.txt",
 
   "postAttachCommand": {
-    "server": "streamlit run student_dashboard/app.py --server.address 0.0.0.0"
+  "server": "streamlit run student_dashboard/app.py --server.address 0.0.0.0 --server.headless true"
   },
 
   "forwardPorts": [
