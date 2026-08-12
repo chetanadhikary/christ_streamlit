@@ -1,6 +1,12 @@
 import streamlit as st
 import plotly.express as px
-from utils.data_loader import load_student_data,get_metric
+from utils.data_loader import load_student_data,validate_columns
+from utils.metrics import get_metric
+from utils.charts import (
+    department_distribution,
+    average_cgpa_by_department,
+    placement_distribution
+)
 
 # Page configuration
 st.set_page_config(page_title="Student Analytics Dashboard",
@@ -47,6 +53,13 @@ else:
         "using sample dataset"
     )
 
+valid,missing = validate_columns(df=df_student)
+
+if not valid:
+    st.error(
+        f"Missing columns:{missing}"
+    )
+    st.stop()
 
 st.sidebar.header("Filters")
 
@@ -80,7 +93,9 @@ if selected_department != "All":
     ]
 
 if selected_semester != "All":
-    df_filtered = df_filtered["Semester"] == selected_semester
+    df_filtered = df_filtered[
+        df_filtered["Semester"] == selected_semester
+    ]
 
 
 min_cgpa = st.sidebar.slider(
@@ -127,76 +142,37 @@ st.write(
 
 st.subheader("Students by Department")
 
-
-department_count = (
-    df_filtered["Department"]
-    .value_counts()
-    .reset_index()
+chart_distribution = department_distribution(
+    df=df_filtered
 )
-
-
-department_count.columns = [
-    "Department",
-    "Students"
-]
-
-
-fig = px.bar(
-    department_count,
-    x="Department",
-    y="Students",
-    title="Number of Students by Department"
-)
-
 
 st.plotly_chart(
-    fig,
+    chart_distribution,
     use_container_width=True
 )
 
 st.subheader("Average CGPA by Department")
 
-cgpa_department = (
-    df_filtered
-    .groupby("Department")["CGPA"]
-    .mean()
-    .reset_index()
+chart_cgpa = average_cgpa_by_department(
+    df=df_filtered
 )
 
-fig = px.bar(
-    cgpa_department,
-    x="Department",
-    y="CGPA",
-    title="Average CGPA Department-wise"
-)
 
 st.plotly_chart(
-    fig,
+    chart_cgpa,
     use_container_width=True
 )
 
 
 st.subheader("Placement Status")
 
-placement_data = (
-    df_filtered["Placement_Status"]
-    .value_counts()
-    .reset_index()
+chart_placement = placement_distribution(
+    df=df_filtered
 )
-placement_data.columns = [
-    "Status",
-    "Count"
-]
 
-fig=px.pie(
-    placement_data,
-    names="Status",
-    values="Count",
-    title="Placement Distribution"
-)
 
 st.plotly_chart(
-    fig,
+    chart_placement,
     use_container_width=True
 )
 
