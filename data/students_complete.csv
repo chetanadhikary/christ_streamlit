@@ -1,0 +1,151 @@
+Student_ID,Name,Department,Semester,CGPA,Attendance,Projects,Programming_Score,Internship,Hackathons,Certifications,Placement_Status,Package_LPA
+2001,Aarav_1,ECE,8,7.66,86,3,62,No,0,2,Placed,16.1
+2002,Diya_2,AI,8,6.03,92,5,58,No,0,6,Not Placed,0.0
+2003,Rohan_3,AI,7,7.06,85,1,89,No,4,4,Not Placed,0.0
+2004,Ananya_4,ISE,6,6.72,73,5,82,No,3,3,Not Placed,0.0
+2005,Vikram_5,CSE,7,6.23,93,2,61,No,1,4,Not Placed,0.0
+2006,Meera_6,AI,6,7.06,77,6,59,No,4,0,Placed,25.0
+2007,Karan_7,CSE,6,9.52,97,1,65,No,3,1,Not Placed,0.0
+2008,Sneha_8,AI,8,7.44,82,2,84,No,5,5,Not Placed,0.0
+2009,Arjun_9,ISE,6,6.59,79,1,58,Yes,4,0,Not Placed,0.0
+2010,Priya_10,CSE,6,8.22,86,6,88,No,4,0,Not Placed,0.0
+2011,Rahul_11,ME,6,6.26,97,1,80,No,4,1,Not Placed,0.0
+2012,Isha_12,ME,7,6.31,91,4,91,Yes,2,1,Not Placed,0.0
+2013,Nikhil_13,AI,6,7.01,74,5,96,No,2,6,Not Placed,0.0
+2014,Kavya_14,ISE,6,8.36,88,0,59,Yes,4,2,Placed,12.0
+2015,Aditya_15,AI,6,7.4,75,3,89,Yes,4,6,Not Placed,0.0
+2016,Neha_16,ME,7,7.14,91,0,63,No,0,5,Not Placed,0.0
+2017,Manoj_17,ECE,6,8.3,92,2,68,Yes,2,4,Placed,23.1
+2018,Sara_18,CSE,6,8.41,96,2,57,No,1,5,Not Placed,0.0
+2019,Aarav_19,ISE,7,8.1,83,4,55,No,5,1,Not Placed,0.0
+2020,Diya_20,ME,6,8.1,83,1,57,No,0,2,Placed,10.0
+2021,Rohan_21,ECE,6,8.96,98,6,81,Yes,5,1,Not Placed,0.0
+2022,Ananya_22,AI,7,9.71,95,1,81,No,5,2,Not Placed,0.0
+2023,Vikram_23,AI,6,7.01,95,5,61,No,0,6,Not Placed,0.0
+2024,Meera_24,ISE,6,7.33,96,6,69,No,5,1,Placed,10.6
+2025,Karan_25,ECE,6,7.33,86,3,98,Yes,4,2,Not Placed,0.0
+2026,Sneha_26,ECE,7,6.68,78,0,61,Yes,2,5,Not Placed,0.0
+2027,Arjun_27,ME,8,9.74,73,3,91,No,0,5,Placed,15.4
+2028,Priya_28,AI,8,7.38,72,5,76,Yes,5,6,Placed,23.0
+2029,Rahul_29,ECE,8,8.53,80,3,99,No,1,1,Placed,23.8
+2030,Isha_30,AI,8,8.34,79,3,90,Yes,2,2,Placed,20.7
+2031,Nikhil_31,ECE,7,7.77,84,5,68,Yes,5,1,Not Placed,0.0
+2032,Kavya_32,ME,6,8.52,89,2,60,Yes,1,5,Placed,21.1
+2033,Aditya_33,CSE,7,6.18,85,4,59,Yes,5,4,Placed,18.9
+2034,Neha_34,ISE,8,6.93,90,5,55,Yes,0,6,Placed,8.5
+2035,Manoj_35,ME,7,7.77,87,1,62,Yes,3,5,Placed,16.2
+2036,Sara_36,ISE,8,8.33,93,4,82,Yes,4,3,Not Placed,0.0
+2037,Aarav_37,ISE,7,7.71,94,1,95,No,4,3,Not Placed,0.0
+2038,Diya_38,ISE,8,6.29,79,1,72,No,4,0,Placed,9.6
+2039,Rohan_39,AI,7,8.68,72,3,81,No,3,3,Placed,21.7
+2040,Ananya_40,ME,7,9.6,70,6,91,No,0,2,Placed,12.8
+2041,Vikram_41,ME,7,8.84,87,6,93,Yes,3,1,Placed,14.7
+2042,Meera_42,ECE,8,8.54,95,3,65,Yes,1,4,Placed,23.1
+2043,Karan_43,ME,6,8.52,72,5,82,No,3,1,Placed,12.6
+2044,Sneha_44,ISE,7,7.24,94,3,72,Yes,3,2,Not Placed,0.0
+2045,Arjun_45,CSE,6,8.85,71,2,69,Yes,5,0,Not Placed,0.0
+2046,Priya_46,AI,6,9.19,89,1,70,No,5,0,Not Placed,0.0
+2047,Rahul_47,ISE,7,8.66,94,2,65,Yes,5,5,Placed,21.4
+2048,Isha_48,CSE,6,8.2,79,4,98,Yes,3,3,Not Placed,0.0
+2049,Nikhil_49,CSE,6,8.25,96,5,70,No,2,6,Not Placed,0.0
+2050,Kavya_50,ME,7,8.97,81,4,82,Yes,0,4,Placed,5.3
+2051,Aditya_51,ISE,8,6.4,81,5,84,Yes,3,1,Not Placed,0.0
+2052,Neha_52,ECE,6,8.34,87,6,85,Yes,5,4,Placed,22.0
+2053,Manoj_53,ECE,7,9.35,77,6,84,Yes,5,3,Placed,14.9
+2054,Sara_54,AI,8,7.85,81,6,71,No,4,5,Not Placed,0.0
+2055,Aarav_55,CSE,8,7.96,76,0,70,Yes,3,4,Not Placed,0.0
+2056,Diya_56,ISE,7,8.45,85,3,56,No,1,3,Not Placed,0.0
+2057,Rohan_57,ME,7,7.4,87,4,77,No,5,4,Placed,19.1
+2058,Ananya_58,ECE,8,6.96,73,5,67,No,5,4,Not Placed,0.0
+2059,Vikram_59,AI,6,6.73,93,3,72,Yes,4,4,Placed,7.0
+2060,Meera_60,ECE,7,6.86,75,2,55,Yes,1,2,Placed,6.1
+2061,Karan_61,AI,6,8.42,94,3,61,Yes,4,2,Placed,13.8
+2062,Sneha_62,CSE,6,6.96,97,3,62,Yes,3,3,Placed,17.6
+2063,Arjun_63,AI,8,6.57,88,2,60,Yes,0,4,Not Placed,0.0
+2064,Priya_64,ME,7,9.0,77,6,88,No,3,2,Not Placed,0.0
+2065,Rahul_65,ECE,6,8.16,71,4,61,Yes,1,5,Placed,18.2
+2066,Isha_66,AI,6,6.66,72,1,55,No,5,4,Not Placed,0.0
+2067,Nikhil_67,AI,8,7.09,79,5,84,No,1,2,Not Placed,0.0
+2068,Kavya_68,ME,6,8.51,76,3,62,Yes,5,1,Not Placed,0.0
+2069,Aditya_69,CSE,7,6.23,95,2,93,Yes,4,2,Placed,14.4
+2070,Neha_70,ISE,8,9.58,86,4,86,No,4,0,Not Placed,0.0
+2071,Manoj_71,ECE,8,8.29,70,0,69,Yes,4,4,Not Placed,0.0
+2072,Sara_72,ECE,6,8.19,94,6,66,Yes,5,3,Not Placed,0.0
+2073,Aarav_73,ME,6,7.66,96,3,60,Yes,3,2,Placed,7.1
+2074,Diya_74,ECE,7,7.56,85,2,97,Yes,4,0,Placed,11.3
+2075,Rohan_75,CSE,7,9.69,82,6,87,Yes,0,5,Not Placed,0.0
+2076,Ananya_76,ISE,6,6.21,86,2,94,Yes,5,3,Not Placed,0.0
+2077,Vikram_77,ECE,6,8.09,79,3,99,Yes,0,5,Placed,9.8
+2078,Meera_78,ECE,8,8.09,87,3,60,No,0,3,Not Placed,0.0
+2079,Karan_79,AI,7,7.89,92,2,87,Yes,3,6,Placed,14.4
+2080,Sneha_80,ME,7,6.55,76,4,87,Yes,1,6,Placed,20.5
+2081,Arjun_81,ECE,8,9.55,86,2,55,No,2,6,Not Placed,0.0
+2082,Priya_82,ISE,7,9.29,84,4,85,No,4,6,Placed,14.1
+2083,Rahul_83,AI,7,9.73,77,4,79,No,3,0,Placed,14.5
+2084,Isha_84,ISE,7,9.76,95,6,96,Yes,3,0,Placed,24.3
+2085,Nikhil_85,CSE,6,9.32,84,0,88,Yes,0,5,Placed,22.4
+2086,Kavya_86,CSE,8,7.78,78,2,94,Yes,5,0,Not Placed,0.0
+2087,Aditya_87,ME,7,7.44,80,5,86,Yes,0,4,Placed,17.6
+2088,Neha_88,AI,6,8.84,83,0,95,Yes,0,3,Placed,11.0
+2089,Manoj_89,CSE,8,7.23,71,2,77,No,1,1,Not Placed,0.0
+2090,Sara_90,AI,6,6.65,72,4,79,Yes,1,3,Not Placed,0.0
+2091,Aarav_91,AI,6,7.75,78,3,71,Yes,3,2,Not Placed,0.0
+2092,Diya_92,CSE,6,7.68,81,4,74,Yes,3,5,Placed,21.9
+2093,Rohan_93,ISE,7,9.24,73,1,79,Yes,4,2,Not Placed,0.0
+2094,Ananya_94,CSE,6,9.72,91,3,72,No,5,6,Not Placed,0.0
+2095,Vikram_95,ME,8,8.83,96,2,69,Yes,2,1,Placed,17.4
+2096,Meera_96,AI,8,8.39,98,5,96,No,3,0,Not Placed,0.0
+2097,Karan_97,AI,7,6.34,79,2,81,No,1,6,Not Placed,0.0
+2098,Sneha_98,ME,6,7.91,78,6,65,No,3,6,Placed,22.4
+2099,Arjun_99,ISE,8,9.66,74,6,69,Yes,5,5,Not Placed,0.0
+2100,Priya_100,ECE,8,6.34,82,0,71,Yes,3,2,Not Placed,0.0
+2101,Rahul_101,ECE,8,8.22,96,5,78,No,1,3,Placed,22.7
+2102,Isha_102,ECE,6,9.48,77,5,59,Yes,3,5,Placed,13.2
+2103,Nikhil_103,CSE,8,9.6,79,3,62,No,4,1,Placed,12.4
+2104,Kavya_104,ME,8,7.59,93,5,64,Yes,5,0,Not Placed,0.0
+2105,Aditya_105,ISE,7,9.57,78,0,99,No,3,3,Not Placed,0.0
+2106,Neha_106,CSE,7,9.73,81,4,96,No,3,2,Placed,7.4
+2107,Manoj_107,CSE,8,8.52,90,5,93,Yes,0,6,Placed,24.8
+2108,Sara_108,AI,8,6.26,94,4,68,Yes,1,2,Not Placed,0.0
+2109,Aarav_109,CSE,6,7.05,74,1,89,No,1,0,Not Placed,0.0
+2110,Diya_110,AI,7,6.06,95,6,70,Yes,0,1,Placed,7.5
+2111,Rohan_111,ME,8,6.43,72,3,83,Yes,4,4,Placed,15.1
+2112,Ananya_112,CSE,7,8.76,97,5,88,No,5,0,Placed,14.6
+2113,Vikram_113,ISE,6,8.61,85,5,83,No,0,2,Not Placed,0.0
+2114,Meera_114,AI,8,7.05,90,4,90,Yes,3,4,Placed,14.1
+2115,Karan_115,ISE,7,6.38,92,0,96,Yes,4,5,Not Placed,0.0
+2116,Sneha_116,ISE,7,9.37,83,2,84,No,5,0,Placed,11.3
+2117,Arjun_117,ECE,7,9.62,91,3,59,No,0,0,Placed,19.9
+2118,Priya_118,AI,7,8.11,88,4,90,No,0,3,Placed,18.3
+2119,Rahul_119,CSE,6,9.68,89,2,77,No,4,1,Placed,14.6
+2120,Isha_120,ECE,8,9.21,81,0,72,Yes,3,6,Placed,20.3
+2121,Nikhil_121,ME,7,8.56,87,0,93,Yes,5,2,Placed,10.5
+2122,Kavya_122,ECE,6,7.33,75,6,64,Yes,3,0,Placed,17.7
+2123,Aditya_123,CSE,8,8.84,76,3,81,Yes,1,2,Placed,11.5
+2124,Neha_124,ME,7,6.32,71,1,65,Yes,0,5,Placed,13.9
+2125,Manoj_125,ISE,8,8.31,83,2,68,Yes,0,2,Placed,10.7
+2126,Sara_126,ME,6,7.85,91,2,57,No,4,0,Placed,11.0
+2127,Aarav_127,AI,8,8.9,79,2,62,No,5,3,Placed,12.6
+2128,Diya_128,AI,6,7.9,96,5,77,No,5,0,Placed,14.2
+2129,Rohan_129,ECE,8,8.19,88,3,95,No,0,3,Placed,11.5
+2130,Ananya_130,ISE,7,9.16,81,0,82,Yes,1,3,Placed,15.5
+2131,Vikram_131,ECE,6,8.83,77,2,65,No,5,0,Not Placed,0.0
+2132,Meera_132,ECE,8,7.33,96,5,64,No,1,2,Placed,17.0
+2133,Karan_133,CSE,8,6.67,94,5,86,Yes,4,6,Not Placed,0.0
+2134,Sneha_134,ME,7,8.44,89,2,95,No,3,0,Placed,17.6
+2135,Arjun_135,ME,8,6.21,86,0,74,Yes,0,0,Placed,10.7
+2136,Priya_136,CSE,8,8.34,86,3,84,Yes,5,0,Placed,21.2
+2137,Rahul_137,AI,7,7.22,85,4,64,Yes,3,0,Not Placed,0.0
+2138,Isha_138,CSE,7,7.92,75,0,70,Yes,3,4,Placed,8.2
+2139,Nikhil_139,ECE,8,7.47,94,2,98,Yes,5,5,Placed,11.6
+2140,Kavya_140,ISE,8,7.08,93,6,97,Yes,4,6,Placed,6.6
+2141,Aditya_141,AI,8,9.48,79,5,99,Yes,1,4,Placed,6.7
+2142,Neha_142,ISE,6,8.45,80,6,63,Yes,5,5,Not Placed,0.0
+2143,Manoj_143,ISE,7,7.93,70,2,74,No,1,2,Not Placed,0.0
+2144,Sara_144,AI,8,6.86,74,1,59,No,0,4,Not Placed,0.0
+2145,Aarav_145,ME,8,6.14,80,6,94,No,3,1,Placed,21.6
+2146,Diya_146,AI,7,8.74,71,3,78,Yes,1,3,Placed,20.0
+2147,Rohan_147,AI,8,8.03,79,6,85,Yes,1,2,Not Placed,0.0
+2148,Ananya_148,ISE,8,7.75,79,6,79,Yes,3,1,Not Placed,0.0
+2149,Vikram_149,AI,6,9.32,71,5,85,Yes,4,0,Placed,15.3
+2150,Meera_150,ECE,6,6.32,75,2,83,Yes,1,6,Placed,23.9

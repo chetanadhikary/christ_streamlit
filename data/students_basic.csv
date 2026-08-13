@@ -1,0 +1,51 @@
+Student_ID,Name,Department,Semester,CGPA,Placement_Status
+1001,Aarav_1,CSE,7,6.29,Not Placed
+1002,Diya_2,AI,8,6.96,Not Placed
+1003,Rohan_3,CSE,6,8.5,Placed
+1004,Ananya_4,ME,6,7.63,Not Placed
+1005,Vikram_5,CSE,8,6.94,Not Placed
+1006,Meera_6,ME,6,6.29,Not Placed
+1007,Karan_7,ME,7,7.63,Not Placed
+1008,Sneha_8,ME,6,7.15,Not Placed
+1009,Arjun_9,AI,6,8.57,Placed
+1010,Priya_10,AI,6,9.45,Placed
+1011,Rahul_11,ISE,7,6.53,Not Placed
+1012,Isha_12,ME,6,7.1,Not Placed
+1013,Nikhil_13,ISE,7,8.02,Placed
+1014,Kavya_14,CSE,8,8.08,Placed
+1015,Aditya_15,ECE,6,8.16,Placed
+1016,Neha_16,AI,6,8.83,Placed
+1017,Manoj_17,CSE,7,7.49,Not Placed
+1018,Sara_18,ECE,7,6.75,Not Placed
+1019,Aarav_19,AI,8,8.48,Placed
+1020,Diya_20,CSE,8,8.27,Not Placed
+1021,Rohan_21,AI,7,6.76,Not Placed
+1022,Ananya_22,ECE,8,9.56,Placed
+1023,Vikram_23,AI,6,8.53,Placed
+1024,Meera_24,AI,7,8.99,Placed
+1025,Karan_25,ECE,8,6.43,Not Placed
+1026,Sneha_26,ECE,7,6.92,Not Placed
+1027,Arjun_27,ISE,6,9.21,Placed
+1028,Priya_28,ECE,8,6.67,Not Placed
+1029,Rahul_29,ME,7,8.03,Placed
+1030,Isha_30,ME,6,7.56,Not Placed
+1031,Nikhil_31,AI,6,7.93,Not Placed
+1032,Kavya_32,CSE,6,6.72,Not Placed
+1033,Aditya_33,ISE,8,8.23,Placed
+1034,Neha_34,ISE,6,8.0,Placed
+1035,Manoj_35,CSE,7,8.52,Placed
+1036,Sara_36,ECE,7,6.58,Not Placed
+1037,Aarav_37,AI,8,7.74,Not Placed
+1038,Diya_38,ECE,8,9.5,Placed
+1039,Rohan_39,CSE,8,9.16,Placed
+1040,Ananya_40,ME,6,8.27,Not Placed
+1041,Vikram_41,ME,6,9.44,Placed
+1042,Meera_42,ME,6,7.3,Not Placed
+1043,Karan_43,CSE,7,9.36,Placed
+1044,Sneha_44,AI,8,6.4,Not Placed
+1045,Arjun_45,CSE,7,6.49,Not Placed
+1046,Priya_46,CSE,6,9.53,Placed
+1047,Rahul_47,AI,6,8.44,Placed
+1048,Isha_48,ECE,6,7.99,Placed
+1049,Nikhil_49,ME,8,8.77,Placed
+1050,Kavya_50,ECE,8,7.56,Not Placed
