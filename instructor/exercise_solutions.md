@@ -27,6 +27,8 @@ building web applications using Python.
 """
 )
 
+```
+
 # Module 2: Widgets
 
 ## Exercise
@@ -41,7 +43,6 @@ Required:
 * Interest
 
 ## Suggested Solution
-
 ```python
 
 name = st.text_input(
@@ -77,12 +78,13 @@ interest = st.radio(
     ]
 )
 
+```
+
 # Module 3: Data Loading
 
 ## Exercise
 
 ### Add CGPA filtering.
-
 
 ```python
 minimum_cgpa = st.slider(
@@ -96,6 +98,8 @@ minimum_cgpa = st.slider(
 filtered_df = df[
     df["CGPA"] >= minimum_cgpa
 ]
+
+```
 
 ### Add placement filter:
 
@@ -116,6 +120,9 @@ if status != "All":
         filtered_df["Placement_Status"] == status
     ]
 
+
+```
+
 # Module 4 : Visualization
 
 ## Exercise
@@ -123,7 +130,6 @@ if status != "All":
 Create department CGPA analysis.
 
 ### Suggested Solution
-
 ```python
 cgpa_department = (
     df.groupby("Department")["CGPA"]
@@ -141,6 +147,8 @@ fig = px.bar(
 
 
 st.plotly_chart(fig)
+
+```
 
 # Module 5: Dashboard
 
@@ -162,3 +170,5 @@ st.metric(
     "Highest CGPA",
     highest_cgpa
 )
+
+```
