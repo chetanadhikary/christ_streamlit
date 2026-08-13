@@ -1,0 +1,13 @@
+Student_ID,Name,Department,Semester,CGPA,Placement_Status
+101,Aarav,CSE,8,8.7,Placed
+102,Diya,ECE,7,7.5,Not Placed
+103,Rohan,AI,8,9.1,Placed
+104,Ananya,ISE,6,8.2,Placed
+105,Vikram,ME,7,6.9,Not Placed
+106,Meera,CSE,8,9.3,Placed
+107,Karan,ECE,6,7.1,Not Placed
+108,Sneha,AI,7,8.8,Placed
+109,Arjun,ISE,8,7.9,Not Placed
+110,Priya,CSE,7,8.5,Placed
+111,Rahul,ME,6,6.7,Not Placed
+112,Isha,ECE,8,8.9,Placed
