@@ -2,6 +2,14 @@ christ_streamlit
 
 # Streamlit Workshop
 
+## Workshop Instructions
+
+1. Fork this repository.
+2. Create your codespace.
+3. Work only in your fork.
+4. Commit your changes regularly.
+5. Do not modify the original repository.
+
 ## Learning Objectives
 
 By the end of this workshop you will learn:
