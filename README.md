@@ -30,7 +30,7 @@ By the end of this workshop you will learn:
 streamlit_basics/
     Introduction examples
 
-student_dashboard/
+final_project/
     Final dashboard project
 
 
