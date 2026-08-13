@@ -4,6 +4,7 @@ import pandas as pd
 
 st.set_page_config(
     page_title="Student Analytics Dashboard",
+    page_icon="🎓",
     layout="wide"
 )
 
@@ -11,27 +12,33 @@ st.set_page_config(
 st.title("🎓 Student Analytics Dashboard")
 
 
-st.write(
-    """
-    Final Project
+# --------------------
+# Load Data
+# --------------------
 
-    Complete the dashboard using concepts
-    learned in the workshop.
-    """
-)
+# TODO:
+# Load students.csv
 
 
-# Step 1:
-# Load student data
+# --------------------
+# Sidebar Filters
+# --------------------
+
+# TODO:
+# Add filters
 
 
-# Step 2:
-# Add sidebar filters
+# --------------------
+# Metrics
+# --------------------
+
+# TODO:
+# Add KPI cards
 
 
-# Step 3:
-# Add KPI metrics
+# --------------------
+# Visualizations
+# --------------------
 
-
-# Step 4:
+# TODO:
 # Add charts

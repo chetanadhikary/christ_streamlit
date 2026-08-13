@@ -31,7 +31,13 @@ streamlit_basics/
     Introduction examples
 
 final_project/
-    Final dashboard project
+    Final Project
+
+    Students will build:
+
+    final_project
+
+    The completed instructor solution is maintained separately.
 
 
 ## Running the Application Manually
